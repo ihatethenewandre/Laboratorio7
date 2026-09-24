@@ -2,10 +2,9 @@
 __pycache__/
 .ipynb_checkpoints/
 spark-warehouse/
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+metastore_db/
+derby.log
+data/raw/BaseDatos_*.xlsx
+data/processed/
 *.crc
-_SUCCESS
 .DS_Store

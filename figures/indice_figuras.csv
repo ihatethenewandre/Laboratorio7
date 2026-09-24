@@ -1,0 +1,10 @@
+numero,archivo,descripcion
+1,Figura1.png,"Distribución de los registros de 2025 por categoría ocupacional, nivel educativo y dominio"
+2,Figura2.png,Distribución del salario mensual de 2025 en escala original y logarítmica
+3,Figura3.png,Salario mediano y rango intercuartílico por nivel educativo y por categoría ocupacional
+4,Figura4.png,Tamaño de la población analítica y salario mediano y medio por corte
+5,Figura5.png,"Mapa de calor de la correlación de Pearson y de Spearman entre salario, edad, antigüedad y horas"
+6,Figura6.png,"Relación entre edad y antigüedad y entre horas, antigüedad y salario, muestra de 5,000 registros"
+7,Figura7.png,Criterio de codo y coeficiente de silueta por espacio de agrupamiento y valor de K
+8,Figura8.png,Centroides estandarizados de los perfiles con sus promedios en unidades originales
+9,Figura9.png,"Distribución de edad, antigüedad, horas y salario por perfil de KMeans sobre todos los registros"
