@@ -8,3 +8,7 @@ numero,archivo,descripcion
 7,Figura7.png,Criterio de codo y coeficiente de silueta por espacio de agrupamiento y valor de K
 8,Figura8.png,Centroides estandarizados de los perfiles con sus promedios en unidades originales
 9,Figura9.png,"Distribución de edad, antigüedad, horas y salario por perfil de KMeans sobre todos los registros"
+10,Figura10.png,RMSE de validación por configuración de regresión lineal y Random Forest e importancia de variables
+11,Figura11.png,"Salario real frente a salario predicho en 2026 para regresión lineal y Random Forest, misma muestra"
+12,Figura12.png,"Residuos frente al salario predicho en 2026 para regresión lineal y Random Forest, misma muestra"
+13,Figura13.png,Error medio y MAE por banda de percentil del salario real en 2026 para ambos modelos
